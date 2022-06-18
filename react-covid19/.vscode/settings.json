@@ -1,0 +1,41 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "[json]": {
+    
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+
+    "material-icon-theme.folders.associations": {
+        "widgets":"components",
+        "front-angular": "font",
+        "front-react": "React-Components",
+        "front-vue": "vue",
+        "store": "Redux-store",
+        "actions": "redux-actions",
+        "reducers": "redux-reducer",
+    },
+
+    "angular.experimental-ivy": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "window.zoomLevel": 1,
+    "redhat.telemetry.enabled": false,
+    "yaml.schemas": {
+        "file:///c%3A/Users/J.%20Mateus/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.jira.enabled": true,
+    "atlascode.bitbucket.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
